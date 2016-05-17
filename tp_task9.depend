@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463471962 source:/home/tlakatlekutl/workspace/tp_task9/main.cpp
+	<iostream>
+	"TpSet.h"
+	<string>
+
+1463472160 /home/tlakatlekutl/workspace/tp_task9/TpSet.h
+	<iostream>
+
+1463420390 source:/home/tlakatlekutl/workspace/tp_task9/TpSet.cpp
+
